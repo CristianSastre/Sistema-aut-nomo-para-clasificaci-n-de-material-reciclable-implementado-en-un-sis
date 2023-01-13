@@ -1,2 +1,2 @@
-# Sistema-aut-nomo-para-clasificaci-n-de-material-reciclable-implementado-en-un-sis
+# Sistema autonomo de clasificacion de material reciclable
 Proyecto de Grado: Sistema autónomo para clasificación de material reciclable implementado en un sistema embebido usando IA
